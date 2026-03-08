@@ -296,13 +296,13 @@ After training, the **"Under the Hood"** section of Teachable Machine was used t
 
 The confusion matrix below shows predicted vs. actual classifications across all 20 species. The strong diagonal indicates high correct prediction rates, with the most notable confusion occurring between Aloe Blue Boy and Aloe Blue Elf due to their visual similarity.
 
-![Confusion Matrix](screenshot/evaluation/hgfhgf.jpg)
+![Confusion Matrix](screenshot/evaluation/confusion_matrix.jpg)
 
 ### Accuracy per Epoch & Loss per Epoch
 
 The graphs below show how training accuracy and loss evolved over 100 epochs. Training accuracy (blue) quickly approached 1.0, while test accuracy (orange) stabilized around 0.9, indicating good generalization. The loss per epoch graph shows training loss (blue) converging near 0 while test loss (orange) remained slightly higher, which is expected behavior.
 
-![Accuracy and Loss per Epoch](screenshot/evaluation/jhgjhgjhg.jpg)
+![Accuracy and Loss per Epoch](screenshot/evaluation/accuracy_per_epoch.jpg)
 
 ### Accuracy Per Class
 
@@ -329,7 +329,7 @@ The graphs below show how training accuracy and loss evolved over 100 epochs. Tr
 | 19 | Aloe Maculata | 0.86 | 64 |
 | 20 | Aloe Marlothi | 0.82 | 62 |
 
-![Accuracy Per Class](screenshot/evaluation/Screenshot_2026-03-08_135709.jpg)
+![Accuracy Per Class](screenshot/evaluation/accuracy_per_class.jpg)
 
 ---
 
