@@ -24,7 +24,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 1. Aloe AJR
-![Aloe AJR](images/aloe_ajr.jpg)
+![Aloe AJR](screenshot/plant-species/aloe_ajr.jpg)
 
 | | |
 |---|---|
