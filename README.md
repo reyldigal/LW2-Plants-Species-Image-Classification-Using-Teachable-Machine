@@ -36,7 +36,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 2. Aloe Arborescens
-![Aloe Arborescens](images/aloe_arborescens.jpg)
+![Aloe Arborescens](screenshot/plant-species/Aloe_Arborescens.jpg)
 
 | | |
 |---|---|
@@ -48,7 +48,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 3. Aloe Aristata
-![Aloe Aristata](images/aloe_aristata.jpg)
+![Aloe Aristata](screenshot/plant-species/Aloe_Aristata.jpg)
 
 | | |
 |---|---|
@@ -60,7 +60,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 4. Aloe Blizzard
-![Aloe Blizzard](images/aloe_blizzard.jpg)
+![Aloe Blizzard](screenshot/plant-species/Aloe_Blizzard.jpg)
 
 | | |
 |---|---|
@@ -72,7 +72,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 5. Aloe Blue Boy
-![Aloe Blue Boy](images/aloe_blue_boy.jpg)
+![Aloe Blue Boy](screenshot/plant-species/Aloe_Blue_boy.jpg)
 
 | | |
 |---|---|
@@ -84,7 +84,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 6. Aloe Blue Elf
-![Aloe Blue Elf](images/aloe_blue_elf.jpg)
+![Aloe Blue Elf](screenshot/plant-species/Aloe_Blue_Elf.jpg)
 
 | | |
 |---|---|
@@ -96,7 +96,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 7. Aloe Brevifolia
-![Aloe Brevifolia](images/aloe_brevifolia.jpg)
+![Aloe Brevifolia](screenshot/plant-species/Aloe_Brebvifolia.jpg)
 
 | | |
 |---|---|
@@ -108,7 +108,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 8. Aloe Broomii
-![Aloe Broomii](images/aloe_broomii.jpg)
+![Aloe Broomii](screenshot/plant-species/Aloe_Broomii.jpg)
 
 | | |
 |---|---|
@@ -120,7 +120,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 9. Aloe Castillonaie
-![Aloe Castillonaie](images/aloe_castillonaie.jpg)
+![Aloe Castillonaie](screenshot/plant-species/Aloe_castillonaie.jpg)
 
 | | |
 |---|---|
@@ -132,7 +132,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 10. Aloe Dial Lights
-![Aloe Dial Lights](images/aloe_dial_lights.jpg)
+![Aloe Dial Lights](screenshot/plant-species/Aloe_Deal_Lights.jpg)
 
 | | |
 |---|---|
@@ -144,8 +144,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 11. Aloe Jurassic Dino
-![Aloe Jurassic Dino](images/aloe_jurassic_dino.jpg)
-
+![Aloe Jurassic Dino](screenshot/plant-species/Aloe_Jurassic_Dino.jpg)
 | | |
 |---|---|
 | **Common Name** | Jurassic Dino Aloe |
@@ -156,7 +155,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 12. Aloe Krakatoa
-![Aloe Krakatoa](images/aloe_krakatoa.jpg)
+![Aloe Krakatoa](screenshot/plant-species/Aloe_Krakatoa.jpg)
 
 | | |
 |---|---|
@@ -168,7 +167,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 13. Aloe Krohniana
-![Aloe Krohniana](images/aloe_krohniana.jpg)
+![Aloe Krohniana](screenshot/plant-species/Aloe_kraohliana.jpg)
 
 | | |
 |---|---|
@@ -180,7 +179,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 14. Aloe Nobilis
-![Aloe Nobilis](images/aloe_nobilis.jpg)
+![Aloe Nobilis](screenshot/plant-species/Aloe_nobilis.jpg)
 
 | | |
 |---|---|
@@ -192,7 +191,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 15. Aloe Peckii
-![Aloe Peckii](images/aloe_peckii.jpg)
+![Aloe Peckii](screenshot/plant-species/Aloe_Pecki.jpg)
 
 | | |
 |---|---|
@@ -204,7 +203,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 16. Aloe Perfoliata
-![Aloe Perfoliata](images/aloe_perfoliata.jpg)
+![Aloe Perfoliata](screenshot/plant-species/Alo_Perfoliata.jpg)
 
 | | |
 |---|---|
@@ -216,7 +215,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 17. Aloe Polyphylla
-![Aloe Polyphylla](images/aloe_polyphylla.jpg)
+![Aloe Polyphylla](screenshot/plant-species/Aloe_Polyphylla.jpg)
 
 | | |
 |---|---|
@@ -228,7 +227,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 18. Aloe Karasbergensis
-![Aloe Karasbergensis](images/aloe_karasbergensis.jpg)
+![Aloe Karasbergensis](screenshot/plant-species/Aloe_Karasbergensis.jpg)
 
 | | |
 |---|---|
@@ -240,7 +239,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 19. Aloe Maculata
-![Aloe Maculata](images/aloe_maculata.jpg)
+![Aloe Maculata](screenshot/plant-species/Aloe_Maculata.jpg)
 
 | | |
 |---|---|
@@ -252,7 +251,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 ---
 
 ### 20. Aloe Marlothii
-![Aloe Marlothii](images/aloe_marlothii.jpg)
+![Aloe Marlothii](screenshot/plant-species/Aloe_Marlothi.jpg)
 
 | | |
 |---|---|
