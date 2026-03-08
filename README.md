@@ -394,7 +394,7 @@ The trained model was tested using the **Preview** section of Google Teachable M
 ### Test 5 — Aloe AJR
 ![Test 5](screenshot/testing/test5_Aloe_AJR.jpg)
 ![Test 5 Part 1](screenshot/testing/test5_Aloe_AJR_part1.jpg)
-![Test 5 Part 2](screenshot/testing/test5_Aloe_AJR_part2.jpg)
+
 
 | | |
 |---|---|
@@ -407,7 +407,7 @@ The trained model was tested using the **Preview** section of Google Teachable M
 ### Test 6 — Aloe Arborescens
 ![Test 6](screenshot/testing/test6_Aloe_Arborescens.jpg)
 ![Test 6 Part 1](screenshot/testing/test6_Aloe_Arborescens_part1.jpg)
-![Test 6 Part 2](screenshot/testing/test6_Aloe_Arborescens_part2.jpg)
+
 
 | | |
 |---|---|
@@ -459,7 +459,7 @@ The trained model was tested using the **Preview** section of Google Teachable M
 ### Test 10 — Aloe Blue Boy
 ![Test 10](screenshot/testing/test10_Aloe_Blue_boy.jpg)
 ![Test 10 Part 1](screenshot/testing/test10_Aloe_Blue_boy_part1.jpg)
-![Test 10 Part 2](screenshot/testing/test10_Aloe_Blue_boy_part2.jpg)
+
 
 | | |
 |---|---|
