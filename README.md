@@ -284,7 +284,7 @@ The model was trained using **Google Teachable Machine** with the following conf
 
 ### Training Settings Screenshot
 
-![Training Settings](screenshot/training/fdgfd.jpg)
+![Training Settings](screenshot/training/training_model.jpg)
 
 ---
 
