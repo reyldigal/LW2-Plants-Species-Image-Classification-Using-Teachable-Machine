@@ -339,7 +339,7 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 1 — Aloe AJR
+### Test 1 — Aloe Marlothi
 ![Test 1](screenshot/testing/test1_Aloe_Marlothi.jpg)
 ![Test 1 Part 1](screenshot/testing/test1_Aloe_Marlothi_part1.jpg)
 ![Test 1 Part 2](screenshot/testing/test1_Aloe_Marlothi_part2.jpg)
@@ -348,124 +348,124 @@ The trained model was tested using the **Preview** section of Google Teachable M
 |---|---|
 | **Input Image** | Aloe Marlothi |
 | **Predicted Class** | Aloe Marlothi |
-| **Confidence Score** | — |
+| **Confidence Score** | 97% |
 
 ---
 
-### Test 2 — Aloe Arborescens
-![Test 2](screenshot/testing/test2_Aloe_Arborescens.jpg)
-![Test 2 Part 1](screenshot/testing/test2_Aloe_Arborescens_part1.jpg)
-![Test 2 Part 2](screenshot/testing/test2_Aloe_Arborescens_part2.jpg)
+### Test 2 — Aloe Maculata
+![Test 2](screenshot/testing/test2_Aloe_Maculata.jpg)
+![Test 2 Part 1](screenshot/testing/test2_Aloe_Maculata_part1.jpg)
+![Test 2 Part 2](screenshot/testing/test2_Aloe_Maculata_part2.jpg)
 
 | | |
 |---|---|
-| **Input Image** | Aloe Arborescens |
-| **Predicted Class** | Aloe Arborescens |
-| **Confidence Score** | — |
+| **Input Image** | Aloe Maculata |
+| **Predicted Class** | Aloe Maculata |
+| **Confidence Score** | 100% |
 
 ---
 
-### Test 3 — Aloe Aristata
-![Test 3](screenshot/testing/test3_Aloe_Aristata.jpg)
-![Test 3 Part 1](screenshot/testing/test3_Aloe_Aristata_part1.jpg)
-![Test 3 Part 2](screenshot/testing/test3_Aloe_Aristata_part2.jpg)
-
-| | |
-|---|---|
-| **Input Image** | Aloe Aristata |
-| **Predicted Class** | Aloe Aristata |
-| **Confidence Score** | — |
-
----
-
-### Test 4 — Aloe Blizzard
-![Test 4](screenshot/testing/test4_Aloe_Blizzard.jpg)
-![Test 4 Part 1](screenshot/testing/test4_Aloe_Blizzard_part1.jpg)
-![Test 4 Part 2](screenshot/testing/test4_Aloe_Blizzard_part2.jpg)
-
-| | |
-|---|---|
-| **Input Image** | Aloe Blizzard |
-| **Predicted Class** | Aloe Blizzard |
-| **Confidence Score** | — |
-
----
-
-### Test 5 — Aloe Blue Boy
-![Test 5](screenshot/testing/test5_Aloe_Blue_Boy.jpg)
-![Test 5 Part 1](screenshot/testing/test5_Aloe_Blue_Boy_part1.jpg)
-![Test 5 Part 2](screenshot/testing/test5_Aloe_Blue_Boy_part2.jpg)
-
-| | |
-|---|---|
-| **Input Image** | Aloe Blue Boy |
-| **Predicted Class** | Aloe Blue Boy |
-| **Confidence Score** | — |
-
----
-
-### Test 6 — Aloe Blue Elf
-![Test 6](screenshot/testing/test6_Aloe_Blue_Elf.jpg)
-![Test 6 Part 1](screenshot/testing/test6_Aloe_Blue_Elf_part1.jpg)
-![Test 6 Part 2](screenshot/testing/test6_Aloe_Blue_Elf_part2.jpg)
-
-| | |
-|---|---|
-| **Input Image** | Aloe Blue Elf |
-| **Predicted Class** | Aloe Blue Elf |
-| **Confidence Score** | — |
-
----
-
-### Test 7 — Aloe Broomii
-![Test 7](screenshot/testing/test7_Aloe_Broomii.jpg)
-![Test 7 Part 1](screenshot/testing/test7_Aloe_Broomii_part1.jpg)
-![Test 7 Part 2](screenshot/testing/test7_Aloe_Broomii_part2.jpg)
-
-| | |
-|---|---|
-| **Input Image** | Aloe Broomii |
-| **Predicted Class** | Aloe Broomii |
-| **Confidence Score** | — |
-
----
-
-### Test 8 — Aloe Polyphylla
-![Test 8](screenshot/testing/test8_Aloe_Polyphylla.jpg)
-![Test 8 Part 1](screenshot/testing/test8_Aloe_Polyphylla_part1.jpg)
-![Test 8 Part 2](screenshot/testing/test8_Aloe_Polyphylla_part2.jpg)
-
-| | |
-|---|---|
-| **Input Image** | Aloe Polyphylla |
-| **Predicted Class** | Aloe Polyphylla |
-| **Confidence Score** | — |
-
----
-
-### Test 9 — Aloe Nobilis
-![Test 9](screenshot/testing/test9_Aloe_Nobilis.jpg)
-![Test 9 Part 1](screenshot/testing/test9_Aloe_Nobilis_part1.jpg)
-![Test 9 Part 2](screenshot/testing/test9_Aloe_Nobilis_part2.jpg)
+### Test 3 — Aloe Nobilis
+![Test 3](screenshot/testing/test3_Aloe_nobilis.jpg)
+![Test 3 Part 1](screenshot/testing/test3_Aloe_nobilis_part1.jpg)
+![Test 3 Part 2](screenshot/testing/test3_Aloe_nobilis_part2.jpg)
 
 | | |
 |---|---|
 | **Input Image** | Aloe Nobilis |
 | **Predicted Class** | Aloe Nobilis |
-| **Confidence Score** | — |
+| **Confidence Score** | 100% |
 
 ---
 
-### Test 10 — Aloe Marlothii
-![Test 10](screenshot/testing/test10_Aloe_Marlothi.jpg)
-![Test 10 Part 1](screenshot/testing/test10_Aloe_Marlothi_part1.jpg)
-![Test 10 Part 2](screenshot/testing/test10_Aloe_Marlothi_part2.jpg)
+### Test 4 — Aloe Brebvifolia
+![Test 4](screenshot/testing/test4_Aloe_Brebvifolia.jpg)
+![Test 4 Part 1](screenshot/testing/test4_Aloe_Brebvifolia_part1.jpg)
+![Test 4 Part 2](screenshot/testing/test4_Aloe_Brebvifolia_part2.jpg)
 
 | | |
 |---|---|
-| **Input Image** | Aloe Marlothii |
-| **Predicted Class** | Aloe Marlothii |
-| **Confidence Score** | — |
+| **Input Image** | Aloe Brebvifolia |
+| **Predicted Class** | Aloe Brebvifolia |
+| **Confidence Score** | 100% |
+
+---
+
+### Test 5 — Aloe AJR
+![Test 5](screenshot/testing/test5_Aloe_AJR.jpg)
+![Test 5 Part 1](screenshot/testing/test5_Aloe_AJR_part1.jpg)
+![Test 5 Part 2](screenshot/testing/test5_Aloe_AJR_part2.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe AJR |
+| **Predicted Class** | Aloe AJR |
+| **Confidence Score** | 100% |
+
+---
+
+### Test 6 — Aloe Arborescens
+![Test 6](screenshot/testing/test6_Aloe_Arborescens.jpg)
+![Test 6 Part 1](screenshot/testing/test6_Aloe_Arborescens_part1.jpg)
+![Test 6 Part 2](screenshot/testing/test6_Aloe_Arborescens_part2.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Arborescens |
+| **Predicted Class** | Aloe Arborescens |
+| **Confidence Score** | 100% |
+
+---
+
+### Test 7 — Aloe Castillonaie
+![Test 7](screenshot/testing/test7_Aloe_castillonaie.jpg)
+![Test 7 Part 1](screenshot/testing/test7_Aloe_castillonaie_part1.jpg)
+![Test 7 Part 2](screenshot/testing/test7_Aloe_castillonaie_part2.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Castillonaie |
+| **Predicted Class** | Aloe Castillonaie |
+| **Confidence Score** | 100% |
+
+---
+
+### Test 8 — Aloe Deal Lights
+![Test 8](screenshot/testing/test8_Aloe_Deal_Lights.jpg)
+![Test 8 Part 1](screenshot/testing/test8_Aloe_Deal_Lights_part1.jpg)
+![Test 8 Part 2](screenshot/testing/test8_Aloe_Deal_Lights_part2.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Deal Lights |
+| **Predicted Class** | Aloe Deal Lights |
+| **Confidence Score** | 100% |
+
+---
+
+### Test 9 — Aloe Jurassic Dino
+![Test 9](screenshot/testing/test9_Aloe_Jurassic_Dino.jpg)
+![Test 9 Part 1](screenshot/testing/test9_Aloe_Jurassic_Dino_part1.jpg)
+![Test 9 Part 2](screenshot/testing/test9_Aloe_Jurassic_Dino_part2.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Jurassic Dino |
+| **Predicted Class** | Aloe Jurassic Dino |
+| **Confidence Score** | 100% |
+
+---
+
+### Test 10 — Aloe Blue Boy
+![Test 10](screenshot/testing/test10_Aloe_Blue_boy.jpg)
+![Test 10 Part 1](screenshot/testing/test10_Aloe_Blue_boy_part1.jpg)
+![Test 10 Part 2](screenshot/testing/test10_Aloe_Blue_boy_part2.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Blue Boy |
+| **Predicted Class** | Aloe Blue Boy |
+| **Confidence Score** | 97% |
 
 ---
 
