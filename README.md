@@ -335,12 +335,14 @@ The graphs below show how training accuracy and loss evolved over 100 epochs. Tr
 
 ## E. Model Testing
 
-The trained model was tested using the **Preview** section of Google Teachable Machine. A total of 10 test images were used, each showing the input image, predicted class, and confidence score.
+The trained model was tested using the **Preview** section of Google Teachable Machine. A total of 10 tests were conducted. Each test includes 3 screenshots: the main preview screen, and two additional parts showing the input image and confidence score in detail.
 
 ---
 
-### Test 1
-![Test 1](screenshot/testing/test_01.jpg)
+### Test 1 — Aloe AJR
+![Test 1](screenshot/testing/test1_Aloe_AJR.jpg)
+![Test 1 Part 1](screenshot/testing/test1_Aloe_AJR_part1.jpg)
+![Test 1 Part 2](screenshot/testing/test1_Aloe_AJR_part2.jpg)
 
 | | |
 |---|---|
@@ -350,8 +352,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 2
-![Test 2](screenshot/testing/test_02.jpg)
+### Test 2 — Aloe Arborescens
+![Test 2](screenshot/testing/test2_Aloe_Arborescens.jpg)
+![Test 2 Part 1](screenshot/testing/test2_Aloe_Arborescens_part1.jpg)
+![Test 2 Part 2](screenshot/testing/test2_Aloe_Arborescens_part2.jpg)
 
 | | |
 |---|---|
@@ -361,8 +365,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 3
-![Test 3](screenshot/testing/test_03.jpg)
+### Test 3 — Aloe Aristata
+![Test 3](screenshot/testing/test3_Aloe_Aristata.jpg)
+![Test 3 Part 1](screenshot/testing/test3_Aloe_Aristata_part1.jpg)
+![Test 3 Part 2](screenshot/testing/test3_Aloe_Aristata_part2.jpg)
 
 | | |
 |---|---|
@@ -372,8 +378,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 4
-![Test 4](screenshot/testing/test_04.jpg)
+### Test 4 — Aloe Blizzard
+![Test 4](screenshot/testing/test4_Aloe_Blizzard.jpg)
+![Test 4 Part 1](screenshot/testing/test4_Aloe_Blizzard_part1.jpg)
+![Test 4 Part 2](screenshot/testing/test4_Aloe_Blizzard_part2.jpg)
 
 | | |
 |---|---|
@@ -383,8 +391,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 5
-![Test 5](screenshot/testing/test_05.jpg)
+### Test 5 — Aloe Blue Boy
+![Test 5](screenshot/testing/test5_Aloe_Blue_Boy.jpg)
+![Test 5 Part 1](screenshot/testing/test5_Aloe_Blue_Boy_part1.jpg)
+![Test 5 Part 2](screenshot/testing/test5_Aloe_Blue_Boy_part2.jpg)
 
 | | |
 |---|---|
@@ -394,8 +404,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 6
-![Test 6](screenshot/testing/test_06.jpg)
+### Test 6 — Aloe Blue Elf
+![Test 6](screenshot/testing/test6_Aloe_Blue_Elf.jpg)
+![Test 6 Part 1](screenshot/testing/test6_Aloe_Blue_Elf_part1.jpg)
+![Test 6 Part 2](screenshot/testing/test6_Aloe_Blue_Elf_part2.jpg)
 
 | | |
 |---|---|
@@ -405,8 +417,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 7
-![Test 7](screenshot/testing/test_07.jpg)
+### Test 7 — Aloe Broomii
+![Test 7](screenshot/testing/test7_Aloe_Broomii.jpg)
+![Test 7 Part 1](screenshot/testing/test7_Aloe_Broomii_part1.jpg)
+![Test 7 Part 2](screenshot/testing/test7_Aloe_Broomii_part2.jpg)
 
 | | |
 |---|---|
@@ -416,8 +430,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 8
-![Test 8](screenshot/testing/test_08.jpg)
+### Test 8 — Aloe Polyphylla
+![Test 8](screenshot/testing/test8_Aloe_Polyphylla.jpg)
+![Test 8 Part 1](screenshot/testing/test8_Aloe_Polyphylla_part1.jpg)
+![Test 8 Part 2](screenshot/testing/test8_Aloe_Polyphylla_part2.jpg)
 
 | | |
 |---|---|
@@ -427,8 +443,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 9
-![Test 9](screenshot/testing/test_09.jpg)
+### Test 9 — Aloe Nobilis
+![Test 9](screenshot/testing/test9_Aloe_Nobilis.jpg)
+![Test 9 Part 1](screenshot/testing/test9_Aloe_Nobilis_part1.jpg)
+![Test 9 Part 2](screenshot/testing/test9_Aloe_Nobilis_part2.jpg)
 
 | | |
 |---|---|
@@ -438,8 +456,10 @@ The trained model was tested using the **Preview** section of Google Teachable M
 
 ---
 
-### Test 10
-![Test 10](screenshot/testing/test_10.jpg)
+### Test 10 — Aloe Marlothii
+![Test 10](screenshot/testing/test10_Aloe_Marlothi.jpg)
+![Test 10 Part 1](screenshot/testing/test10_Aloe_Marlothi_part1.jpg)
+![Test 10 Part 2](screenshot/testing/test10_Aloe_Marlothi_part2.jpg)
 
 | | |
 |---|---|
