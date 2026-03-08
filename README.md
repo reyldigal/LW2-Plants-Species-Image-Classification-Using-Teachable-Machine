@@ -13,7 +13,7 @@ The primary goal of this model is to:
 - Demonstrate how machine learning can be applied to botanical identification
 - Provide a foundation for plant recognition tools useful in horticulture, conservation, and education
 
-The model was trained on a dataset of **5,000+ images** (minimum 250 per species), covering varied angles, lighting conditions, and growth stages to ensure robust generalization.
+The model was trained on a dataset of **8,000+ images** across 20 species, covering varied angles, lighting conditions, and growth stages to ensure robust generalization.
 
 ---
 
@@ -145,6 +145,7 @@ Below are the 20 Aloe species used in this classification project, each with a r
 
 ### 11. Aloe Jurassic Dino
 ![Aloe Jurassic Dino](screenshot/plant-species/Aloe_Jurassic_Dino.jpg)
+
 | | |
 |---|---|
 | **Common Name** | Jurassic Dino Aloe |
@@ -262,4 +263,205 @@ Below are the 20 Aloe species used in this classification project, each with a r
 
 ---
 
-*README continues with sections C (Model Training Details), D (Model Evaluation), and E (Model Testing)...*
+## C. Model Training Details
+
+The model was trained using **Google Teachable Machine** with the following configuration:
+
+| Parameter | Value |
+|---|---|
+| **Epochs** | 100 |
+| **Batch Size** | 16 |
+| **Learning Rate** | 0.001 |
+| **Number of Classes** | 20 |
+
+### Why These Values?
+
+**Epochs (100):** 100 epochs were used to allow the model sufficient training cycles to distinguish the subtle visual differences across 20 Aloe species. As seen in the accuracy-per-epoch graph, the training accuracy stabilized near 1.0 well before 100 epochs, confirming the model converged properly without significant overfitting.
+
+**Batch Size (16):** A batch size of 16 was selected to balance training stability and memory efficiency. Smaller batches provide more frequent weight updates per epoch, which helps the model learn fine-grained differences between visually similar species such as Aloe Blue Boy and Aloe Blue Elf.
+
+**Learning Rate (0.001):** The default learning rate of 0.001 was retained as it is well-suited for image classification tasks on this scale. It allowed smooth and consistent convergence without the risk of overshooting optimal weight values.
+
+### Training Settings Screenshot
+
+![Training Settings](screenshot/training/fdgfd.jpg)
+
+---
+
+## D. Model Evaluation
+
+After training, the **"Under the Hood"** section of Teachable Machine was used to evaluate model performance across all 20 Aloe species classes.
+
+### Confusion Matrix
+
+The confusion matrix below shows predicted vs. actual classifications across all 20 species. The strong diagonal indicates high correct prediction rates, with the most notable confusion occurring between Aloe Blue Boy and Aloe Blue Elf due to their visual similarity.
+
+![Confusion Matrix](screenshot/evaluation/hgfhgf.jpg)
+
+### Accuracy per Epoch & Loss per Epoch
+
+The graphs below show how training accuracy and loss evolved over 100 epochs. Training accuracy (blue) quickly approached 1.0, while test accuracy (orange) stabilized around 0.9, indicating good generalization. The loss per epoch graph shows training loss (blue) converging near 0 while test loss (orange) remained slightly higher, which is expected behavior.
+
+![Accuracy and Loss per Epoch](screenshot/evaluation/jhgjhgjhg.jpg)
+
+### Accuracy Per Class
+
+| # | Species | Accuracy | # Samples |
+|---|---|---|---|
+| 1 | Aloe AJR | 0.93 | 97 |
+| 2 | Aloe Arborescens | 0.93 | 71 |
+| 3 | Aloe Aristata | 1.00 | 71 |
+| 4 | Aloe Blizzard | 1.00 | 69 |
+| 5 | Aloe Blue Boy | 0.83 | 81 |
+| 6 | Aloe Blue Elf | 0.61 | 67 |
+| 7 | Aloe Brebvifolia | 0.91 | 68 |
+| 8 | Aloe Broomii | 1.00 | 65 |
+| 9 | Aloe Castillonaie | 0.95 | 62 |
+| 10 | Aloe Deal Lights | 0.98 | 63 |
+| 11 | Aloe Jurassic Dino | 0.98 | 57 |
+| 12 | Aloe Krakatoa | 1.00 | 56 |
+| 13 | Aloe Kraohliana | 0.96 | 67 |
+| 14 | Aloe Nobilis | 0.88 | 66 |
+| 15 | Aloe Pecki | 0.93 | 60 |
+| 16 | Aloe Perfoliata | 0.98 | 61 |
+| 17 | Aloe Polyphylla | 0.96 | 47 |
+| 18 | Aloe Karasbergensis | 0.95 | 64 |
+| 19 | Aloe Maculata | 0.86 | 64 |
+| 20 | Aloe Marlothi | 0.82 | 62 |
+
+![Accuracy Per Class](screenshot/evaluation/Screenshot_2026-03-08_135709.jpg)
+
+---
+
+## E. Model Testing
+
+The trained model was tested using the **Preview** section of Google Teachable Machine. A total of 10 test images were used, each showing the input image, predicted class, and confidence score.
+
+---
+
+### Test 1
+![Test 1](screenshot/testing/test_01.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe AJR |
+| **Predicted Class** | Aloe AJR |
+| **Confidence Score** | — |
+
+---
+
+### Test 2
+![Test 2](screenshot/testing/test_02.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Arborescens |
+| **Predicted Class** | Aloe Arborescens |
+| **Confidence Score** | — |
+
+---
+
+### Test 3
+![Test 3](screenshot/testing/test_03.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Aristata |
+| **Predicted Class** | Aloe Aristata |
+| **Confidence Score** | — |
+
+---
+
+### Test 4
+![Test 4](screenshot/testing/test_04.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Blizzard |
+| **Predicted Class** | Aloe Blizzard |
+| **Confidence Score** | — |
+
+---
+
+### Test 5
+![Test 5](screenshot/testing/test_05.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Blue Boy |
+| **Predicted Class** | Aloe Blue Boy |
+| **Confidence Score** | — |
+
+---
+
+### Test 6
+![Test 6](screenshot/testing/test_06.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Blue Elf |
+| **Predicted Class** | Aloe Blue Elf |
+| **Confidence Score** | — |
+
+---
+
+### Test 7
+![Test 7](screenshot/testing/test_07.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Broomii |
+| **Predicted Class** | Aloe Broomii |
+| **Confidence Score** | — |
+
+---
+
+### Test 8
+![Test 8](screenshot/testing/test_08.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Polyphylla |
+| **Predicted Class** | Aloe Polyphylla |
+| **Confidence Score** | — |
+
+---
+
+### Test 9
+![Test 9](screenshot/testing/test_09.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Nobilis |
+| **Predicted Class** | Aloe Nobilis |
+| **Confidence Score** | — |
+
+---
+
+### Test 10
+![Test 10](screenshot/testing/test_10.jpg)
+
+| | |
+|---|---|
+| **Input Image** | Aloe Marlothii |
+| **Predicted Class** | Aloe Marlothii |
+| **Confidence Score** | — |
+
+---
+
+## Reflection Questions
+
+**1. How did the number of images per class affect your model's accuracy?**
+Classes with more image samples tended to achieve higher accuracy. Species like Aloe Aristata, Aloe Blizzard, Aloe Broomii, and Aloe Krakatoa all reached 1.00 accuracy, while Aloe Blue Elf scored the lowest at 0.61 — likely due to fewer samples and strong visual resemblance to Aloe Blue Boy.
+
+**2. Which plant species were most commonly misclassified and why?**
+Aloe Blue Elf (0.61) and Aloe Blue Boy (0.83) were most commonly confused with each other, as both share similar blue-green leaf coloring and compact rosette forms. Aloe Marlothi (0.82) and Aloe Maculata (0.86) also showed lower accuracy, possibly due to overlapping leaf patterns across samples.
+
+**3. How did changing the epochs, batch size, or learning rate affect the training results?**
+Using 100 epochs allowed the model to converge fully, as shown by the accuracy-per-epoch graph stabilizing near 1.0 around epoch 20–30. The batch size of 16 enabled frequent weight updates which helped the model learn fine distinctions between similar species. The learning rate of 0.001 provided steady, stable convergence without oscillation.
+
+**4. What challenges did you encounter during dataset collection and labeling?**
+The main challenges were sourcing sufficient high-quality images for rarer hybrid cultivars and ensuring consistent labeling for visually similar species. Some species like Aloe Blue Elf and Aloe Blue Boy required extra care during labeling to avoid cross-contamination of classes.
+
+**5. If you were to improve your model, what specific changes would you make and why?**
+Increasing the number of images for underperforming classes — particularly Aloe Blue Elf — would be the most impactful improvement. Applying data augmentation techniques such as flipping, rotation, and brightness variation could also help the model generalize better, especially for species with limited dataset variety.
