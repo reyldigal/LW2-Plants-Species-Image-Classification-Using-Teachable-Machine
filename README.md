@@ -340,14 +340,14 @@ The trained model was tested using the **Preview** section of Google Teachable M
 ---
 
 ### Test 1 — Aloe AJR
-![Test 1](screenshot/testing/test1_Aloe_AJR.jpg)
-![Test 1 Part 1](screenshot/testing/test1_Aloe_AJR_part1.jpg)
-![Test 1 Part 2](screenshot/testing/test1_Aloe_AJR_part2.jpg)
+![Test 1](screenshot/testing/test1_Aloe_Marlothi.jpg)
+![Test 1 Part 1](screenshot/testing/test1_Aloe_Marlothi_part1.jpg)
+![Test 1 Part 2](screenshot/testing/test1_Aloe_Marlothi_part2.jpg)
 
 | | |
 |---|---|
-| **Input Image** | Aloe AJR |
-| **Predicted Class** | Aloe AJR |
+| **Input Image** | Aloe Marlothi |
+| **Predicted Class** | Aloe Marlothi |
 | **Confidence Score** | — |
 
 ---
